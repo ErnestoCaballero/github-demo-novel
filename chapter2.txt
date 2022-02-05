@@ -1,4 +1,7 @@
-Chapter 2
+===============
+CHAPTER 2
+===============
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero diam, eget viverra magna hendrerit eu. Nam elementum ultricies sodales. Nunc ut vestibulum lacus. Donec eget nisl odio. Cras non efficitur eros. Etiam maximus, massa at iaculis interdum, ligula erat efficitur nisi, vel ultricies enim quam non mauris. Nunc turpis dui, ullamcorper sed libero nec, dictum varius ipsum. Proin augue eros, condimentum et purus at, vehicula auctor purus.
 
